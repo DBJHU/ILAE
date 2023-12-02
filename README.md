@@ -25,12 +25,13 @@ Resources for ILAE Big Data Commission
 
 # Epilepsy - OMOP
 
-| Journal | Creation Date | Authors |
-|---------|---------------|---------|
-| [Epilepsia](https://pubmed.ncbi.nlm.nih.gov/28681416) | 2017/07/07 06:00 | Duke, Jon D \| Ryan, Patrick B \| Suchard, Marc A \| Hripcsak, George \| Jin, Peng \| Reich, Christian \| Schwalm, Marie-Sophie \| Khoma, Yuriy \| Wu, Yonghui \| Xu, Hua \| Shah, Nigam H \| Banda, Juan M \| Schuemie, Martijn J |
-| [Frontiers in neurology](https://pubmed.ncbi.nlm.nih.gov/32499654) | 2020/06/02 06:00 | Kim, Hunmin \| Yoo, Sooyoung \| Jeon, Yonghoon \| Yi, Soyoung \| Kim, Seok \| Choi, Sun Ah \| Hwang, Hee \| Kim, Ki Joong |
-| [Epilepsy & behavior : E&B](https://pubmed.ncbi.nlm.nih.gov/35114420) | 2022/03/11 20:13 | Spotnitz, Matthew \| Ostropolets, Anna \| Castano, Victor G \| Natarajan, Karthik \| Waldman, Genna J \| Argenziano, Michael \| Ottman, Ruth \| Hripcsak, George \| Choi, Hyunmi \| Youngerman, Brett E |
-| [Epilepsia](https://pubmed.ncbi.nlm.nih.gov/34524744) | 2022/09/15 03:02 | Castano, Victor G \| Spotnitz, Matthew \| Waldman, Genna J \| Joiner, Evan F \| Choi, Hyunmi \| Ostropolets, Anna \| Natarajan, Karthik \| McKhann, Guy M \| Ottman, Ruth \| Neugut, Alfred I \| Hripcsak, George \| Youngerman, Brett E |
+| Title | Journal | Creation Date | Authors |
+|-------|---------|---------------|---------|
+| Risk of angioedema associated with levetiracetam compared with phenytoin: Findings of the observational health data sciences and informatics research network | [Epilepsia](https://pubmed.ncbi.nlm.nih.gov/28681416) | 2017/07/07 06:00 | Duke, Jon D \| Ryan, Patrick B \| Suchard, Marc A \| Hripcsak, George \| Jin, Peng \| Reich, Christian \| Schwalm, Marie-Sophie \| Khoma, Yuriy \| Wu, Yonghui \| Xu, Hua \| Shah, Nigam H \| Banda, Juan M \| Schuemie, Martijn J |
+| Characterization of Anti-seizure Medication Treatment Pathways in Pediatric Epilepsy Using the Electronic Health Record-Based Common Data Model | [Frontiers in neurology](https://pubmed.ncbi.nlm.nih.gov/32477256/) | 2020/06/02 06:00 | Kim, Hunmin \| Yoo, Sooyoung \| Jeon, Yonghoon \| Yi, Soyoung \| Kim, Seok \| Choi, Sun Ah \| Hwang, Hee \| Kim, Ki Joong |
+| Patient characteristics and antiseizure medication pathways in newly diagnosed epilepsy: Feasibility and pilot results using the common data model in a single-center electronic medical record database | [Epilepsy & behavior : E&B](https://pubmed.ncbi.nlm.nih.gov/35276502) | 2022/03/11 20:13 | Spotnitz, Matthew \| Ostropolets, Anna \| Castano, Victor G \| Natarajan, Karthik \| Waldman, Genna J \| Argenziano, Michael \| Ottman, Ruth \| Hripcsak, George \| Choi, Hyunmi \| Youngerman, Brett E |
+| Identification of patients with drug-resistant epilepsy in electronic medical record data using the Observational Medical Outcomes Partnership Common Data Model | [Epilepsia](https://pubmed.ncbi.nlm.nih.gov/36106377) | 2022/09/15 03:02 | Castano, Victor G \| Spotnitz, Matthew \| Waldman, Genna J \| Joiner, Evan F \| Choi, Hyunmi \| Ostropolets, Anna \| Natarajan, Karthik \| McKhann, Guy M \| Ottman, Ruth \| Neugut, Alfred I \| Hripcsak, George \| Youngerman,
+
 
 
 # OMOP CDM Basic Data Dictionary 
