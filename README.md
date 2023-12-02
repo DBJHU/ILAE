@@ -3,7 +3,7 @@ Resources for ILAE Big Data Commission
 
 # Table of Contents
 
-- [Epilepsy OMOP](#epilepsy-OMOP)
+- [Epilepsy and OMOP](#epilepsy-and-OMOP)
 - [OHDSI_Resources](#ohdsi-resources)
 - [OMOP CDM Basic Data Dictionary](#omop-cdm-basic-data-dictionary)
 - [Projects Best Suited for Observational Research and OHDSI Network Studies](#projects-best-suited-for-observational-research-and-ohdsi-network-studies)
@@ -23,7 +23,7 @@ Resources for ILAE Big Data Commission
 - [Analysis with R](#analysis-with-r)
 - [Diversity, Equity, and Inclusion Resources](#diversity-equity-and-inclusion-resources)
 
-# Epilepsy - OMOP
+# Epilepsy and OMOP
 
 | Title | Journal | Creation Date | Authors |
 |-------|---------|---------------|---------|
