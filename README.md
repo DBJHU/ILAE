@@ -32,7 +32,7 @@ Resources for ILAE Big Data Commission
 | Patient characteristics and antiseizure medication pathways in newly diagnosed epilepsy: Feasibility and pilot results using the common data model in a single-center electronic medical record database | [Epilepsy & behavior : E&B](https://pubmed.ncbi.nlm.nih.gov/35276502) | 2022/03/11 20:13 | Spotnitz, Matthew \| Ostropolets, Anna \| Castano, Victor G \| Natarajan, Karthik \| Waldman, Genna J \| Argenziano, Michael \| Ottman, Ruth \| Hripcsak, George \| Choi, Hyunmi \| Youngerman, Brett E |
 | Identification of patients with drug-resistant epilepsy in electronic medical record data using the Observational Medical Outcomes Partnership Common Data Model | [Epilepsia](https://pubmed.ncbi.nlm.nih.gov/36106377) | 2022/09/15 03:02 | Castano, Victor G \| Spotnitz, Matthew \| Waldman, Genna J \| Joiner, Evan F \| Choi, Hyunmi \| Ostropolets, Anna \| Natarajan, Karthik \| McKhann, Guy M \| Ottman, Ruth \| Neugut, Alfred I \| Hripcsak, George \| Youngerman,
 
-
+<div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 # OMOP CDM Basic Data Dictionary 
 For a sample interactive OMOP data dictionary, please click on the image below:
