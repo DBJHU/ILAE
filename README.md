@@ -3,6 +3,7 @@ Resources for ILAE Big Data Commission
 
 # Table of Contents
 
+- [Epilepsy OMOP Projects](#Epilepsy - OMOP)
 - [OHDSI_Resources](#ohdsi-resources)
 - [OMOP CDM Basic Data Dictionary](#omop-cdm-basic-data-dictionary)
 - [Projects Best Suited for Observational Research and OHDSI Network Studies](#projects-best-suited-for-observational-research-and-ohdsi-network-studies)
@@ -21,6 +22,15 @@ Resources for ILAE Big Data Commission
 - [Analysis with SQL](#analysis-with-sql)
 - [Analysis with R](#analysis-with-r)
 - [Diversity, Equity, and Inclusion Resources](#diversity-equity-and-inclusion-resources)
+
+# Epilepsy - OMOP
+
+| Journal | Creation Date | Authors |
+|---------|---------------|---------|
+| Epilepsia | 2017/07/07 06:00 | Duke, Jon D \| Ryan, Patrick B \| Suchard, Marc A \| Hripcsak, George \| Jin, Peng \| Reich, Christian \| Schwalm, Marie-Sophie \| Khoma, Yuriy \| Wu, Yonghui \| Xu, Hua \| Shah, Nigam H \| Banda, Juan M \| Schuemie, Martijn J |
+| Frontiers in neurology | 2020/06/02 06:00 | Kim, Hunmin \| Yoo, Sooyoung \| Jeon, Yonghoon \| Yi, Soyoung \| Kim, Seok \| Choi, Sun Ah \| Hwang, Hee \| Kim, Ki Joong |
+| Epilepsy & behavior : E&B | 2022/03/11 20:13 | Spotnitz, Matthew \| Ostropolets, Anna \| Castano, Victor G \| Natarajan, Karthik \| Waldman, Genna J \| Argenziano, Michael \| Ottman, Ruth \| Hripcsak, George \| Choi, Hyunmi \| Youngerman, Brett E |
+| Epilepsia | 2022/09/15 03:02 | Castano, Victor G \| Spotnitz, Matthew \| Waldman, Genna J \| Joiner, Evan F \| Choi, Hyunmi \| Ostropolets, Anna \| Natarajan, Karthik \| McKhann, Guy M \| Ottman, Ruth \| Neugut, Alfred I \| Hripcsak, George \| Youngerman, Brett E |
 
 # OMOP CDM Basic Data Dictionary 
 For a sample interactive OMOP data dictionary, please click on the image below:
