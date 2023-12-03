@@ -16,7 +16,7 @@ Resources for ILAE Big Data Commission
 - [ETL Basics](#ETL-Basics)
 - [OHDSI Analysis Tools](#ohdsi-analysis-tools)
 - [Data Science Handbook](#data-science-handbook)
-- [Jupyter Notebooks and programming](#jupyter-notebooks-and-programming)
+- [Programming Resources: Jupyter Notebooks, Python, R, and SQL](#Programming-Resources)
 - [Recommended Trainings](#recommended-trainings)
 - [Python, SQL, and R Programming Resources](#python-sql-and-r-programming-resources)
 - [Analysis with SQL](#analysis-with-sql)
@@ -334,7 +334,8 @@ From Standord Data Science
 
 <div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-## Programming Resources:  Jupyter Notebooks, Python, SQL, and R Programming Resources
+# Programming Resources
+## Jupyter Notebooks, Python, SQL, and R Programming Resources
 
 - [Project Jupyter](https://jupyter.org/)
 - [What is the Jupyter Notebook?](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
