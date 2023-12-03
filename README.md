@@ -9,7 +9,6 @@ Resources for ILAE Big Data Commission
 - [Projects Best Suited for Observational Research and OHDSI Network Studies](#projects-best-suited-for-observational-research-and-ohdsi-network-studies)
 - [Analytic Use Cases and Examples](#analytic-use-cases-and-examples)
 - [Incremental Loading](#incremental-loading)
-- [The Collaboration Process](#the-collaboration-process)
 - [Data Content Ontology](#Data-Content-Ontology)
 - [Current CDM](#current-cdm)
 - [Commonly Used CDM Tables Overview](#commonly-used-cdm-tables-overview)
@@ -204,8 +203,8 @@ flowchart TD
     J -->|If complete| K
 ```
 <div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
+-->
 
---->
 ## Current CDM
 ![CDM54 Image](https://github.com/DBJHU/DBJHU.github.io/blob/main/cdm54.png)
 
