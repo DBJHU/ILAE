@@ -210,7 +210,7 @@ https://ohdsi.github.io/TheBookOfOhdsi/ExtractTransformLoad.html
 
 ## ETL STEPS 
 1. **Dataset profiling and documentation**
-    - Create data model documentation, sample data, data dictionaries, code lists, and other relevant information (23-Aug)
+    - Create data model documentation, sample data, data dictionaries, code lists, and other relevant information 
     - Execute database profiling scan (WhiteRabbit) on source database
     - Prepare mapping approach/documents based on scan reports from database profiling scan
 
