@@ -171,40 +171,6 @@ This is also described by Dr. DuWayne Willett, CMIO of UTSW, at around minute 30
 ...and in this OHDSI symposium presentation: ![OHDSI Symposium Presentation](https://www.ohdsi.org/wp-content/uploads/2023/10/10-Willett-Poster.png).
 
 <div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
-
-<!--- WIP 
-## The Collaboration Process 
-### This is just an example of the kinds of diagrams we can make in Mermaid for our workflows
-
-```mermaid
-flowchart TD
-    A[Person A receives a research request]
-    B[Person/group B sets up a meeting]
-    C[Iterative biomedical query mediation process begins]
-    D[Project outline is created and signed off by all parties]
-    E[Voucher/payment/estimate is produced including resource and timeframe]
-    F[Department head reviews/signs off]
-    G[Work begins]
-    H[First draft is produced with a notebook outlining results]
-    I[Meeting is scheduled to review results of the notebook]
-    J[Necessary modifications are made and returned to the researcher]
-    K[End of Process]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-    I --> J
-    J -.->|If modifications needed| G
-    J -->|If complete| K
-```
-<div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
--->
-
 ## Current CDM
 ![CDM54 Image](https://github.com/DBJHU/DBJHU.github.io/blob/main/cdm54.png)
 
