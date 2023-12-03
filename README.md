@@ -18,7 +18,6 @@ Resources for ILAE Big Data Commission
 - [Data Science Handbook](#data-science-handbook)
 - [Programming Resources: Jupyter Notebooks, Python, R, and SQL](#Programming-Resources)
 - [Recommended Trainings](#recommended-trainings)
-- [Python, SQL, and R Programming Resources](#python-sql-and-r-programming-resources)
 - [Analysis with SQL](#analysis-with-sql)
 - [Analysis with R](#analysis-with-r)
 - [Diversity, Equity, and Inclusion Resources](#diversity-equity-and-inclusion-resources)
