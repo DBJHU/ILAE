@@ -213,11 +213,6 @@ flowchart TD
 
 <div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
-
-[Interactive (Select) OMOP Data Dictionary](https://github.com/DBJHU/DBJHU.github.io/blob/main/SelectOMOPDataDictionaryInteractivev2.html)
-
-<div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
-
 # Commonly Used CDM Tables Overview
 The OMOP common data model (CDM) is a relational database made up of different tables that relate to each other by foreign keys (XXXX_ID values; e.g., PERSON_ID or PROVIDER_ID). The OMOP tables in your data export are as follows:
 
