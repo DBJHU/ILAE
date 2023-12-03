@@ -41,7 +41,7 @@ For a sample interactive OMOP data dictionary, please click on the image below:
 <div style="text-align: right"><a href="#table-of-contents">Back to Table of Contents</a></div>
 
 # Projects Best Suited for Observational Research and OHDSI Network Studies
-![Source:  https://www.ohdsi.org/wp-content/uploads/2023/01/SOS-challenge-intro-24jan2023.pdf](AnalyticUseCases.png) 
+![Source:  https://www.ohdsi.org/wp-content/uploads/2023/01/SOS-challenge-intro-24jan2023.pdf]
 # Analytic Use Cases and Examples
 
 | Analytic use case                     | Type                        | Structure                                                                                                               | Example                                                                                                                   |
